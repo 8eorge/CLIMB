@@ -1,0 +1,32 @@
+body {
+    overflow: hidden;
+    margin: 0 auto;
+    font-weight: 700;
+}
+
+.mapOutline{
+    position: absolute;
+    height: 16.7%;
+    width: 13.9%;
+    left: 1.59%;
+    outline: 2px solid rgb(255, 255, 255);
+    top: 80%;
+}
+
+.climb{
+    position: absolute;
+    top: 95.0%;
+    left: 49%;
+    width: 5%;
+    height: 3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.climb img{
+    position: relative;
+    height: 600%;
+    bottom: 4%;
+}
